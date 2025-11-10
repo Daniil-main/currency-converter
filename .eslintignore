@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.min.js
+*.bundle.js
+coverage/
+*.log
+.env
+.env.local
+.DS_Store
+Thumbs.db
