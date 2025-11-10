@@ -186,6 +186,18 @@ npm run lint - Проверка кода с ESLint
 
 Обновите Swagger документацию
 
+## 🎯 Code Quality
+
+### ESLint Configuration
+
+The project uses ESLint with TypeScript support for code quality assurance.
+
+**Available commands:**
+
+npm run lint      // Check code for errors
+npm run lint:fix  // Automatically fix errors  
+npm run lint:watch // Watch mode for development
+
 ## 📝 Лицензия
 Этот проект создан в рамках тестового задания.
 
